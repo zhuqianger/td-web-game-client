@@ -1,0 +1,75 @@
+{
+  "1": {
+    "name": "训练场",
+    "width": 10,
+    "height": 8,
+    "tileSize": 80,
+    "background": {
+      "type": "gradient",
+      "colors": ["0x1a1a2e", "0x16213e", "0x0f3460", "0x533483"]
+    },
+    "terrain": [
+      {"x": 0, "y": 0, "type": "grass"},
+      {"x": 1, "y": 0, "type": "grass"},
+      {"x": 2, "y": 0, "type": "grass"},
+      {"x": 3, "y": 0, "type": "grass"},
+      {"x": 4, "y": 0, "type": "grass"},
+      {"x": 5, "y": 7, "type": "grass"},
+      {"x": 6, "y": 7, "type": "grass"},
+      {"x": 7, "y": 7, "type": "grass"},
+      {"x": 8, "y": 7, "type": "grass"},
+      {"x": 9, "y": 7, "type": "grass"}
+    ]
+  },
+  "2": {
+    "name": "森林遭遇",
+    "width": 12,
+    "height": 10,
+    "tileSize": 70,
+    "background": {
+      "type": "gradient",
+      "colors": ["0x2d5016", "0x1a3d0a", "0x0f2d05", "0x0a1f03"]
+    },
+    "terrain": [
+      {"x": 0, "y": 0, "type": "forest"},
+      {"x": 1, "y": 0, "type": "forest"},
+      {"x": 2, "y": 0, "type": "forest"},
+      {"x": 3, "y": 0, "type": "forest"},
+      {"x": 4, "y": 0, "type": "forest"},
+      {"x": 5, "y": 0, "type": "forest"},
+      {"x": 6, "y": 9, "type": "forest"},
+      {"x": 7, "y": 9, "type": "forest"},
+      {"x": 8, "y": 9, "type": "forest"},
+      {"x": 9, "y": 9, "type": "forest"},
+      {"x": 10, "y": 9, "type": "forest"},
+      {"x": 11, "y": 9, "type": "forest"}
+    ]
+  },
+  "3": {
+    "name": "村庄保卫",
+    "width": 15,
+    "height": 12,
+    "tileSize": 60,
+    "background": {
+      "type": "gradient",
+      "colors": ["0x8b4513", "0x654321", "0x4a3728", "0x2f1f1a"]
+    },
+    "terrain": [
+      {"x": 0, "y": 0, "type": "village"},
+      {"x": 1, "y": 0, "type": "village"},
+      {"x": 2, "y": 0, "type": "village"},
+      {"x": 3, "y": 0, "type": "village"},
+      {"x": 4, "y": 0, "type": "village"},
+      {"x": 5, "y": 0, "type": "village"},
+      {"x": 6, "y": 0, "type": "village"},
+      {"x": 7, "y": 0, "type": "village"},
+      {"x": 8, "y": 11, "type": "village"},
+      {"x": 9, "y": 11, "type": "village"},
+      {"x": 10, "y": 11, "type": "village"},
+      {"x": 11, "y": 11, "type": "village"},
+      {"x": 12, "y": 11, "type": "village"},
+      {"x": 13, "y": 11, "type": "village"},
+      {"x": 14, "y": 11, "type": "village"}
+    ]
+  }
+} 

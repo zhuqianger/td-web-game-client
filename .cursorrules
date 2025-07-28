@@ -1,0 +1,63 @@
+# Web 端塔防游戏项目
+
+这是一个使用 Vue.js 和 Phaser.js 开发的 web 端类明日方舟的塔防游戏项目。
+
+## 技术栈
+
+- **前端框架**: Vue.js 3
+- **游戏引擎**: Phaser.js
+- **构建工具**: Vue CLI
+- **包管理器**: npm
+
+## 项目结构
+
+```
+web-game-client/
+├── public/                 # 静态资源
+├── src/                    # 源代码
+│   ├── components/         # Vue 组件
+│   ├── assets/            # 资源文件
+│   ├── App.vue            # 主应用组件
+│   └── main.js            # 应用入口
+├── package.json           # 项目配置
+└── vue.config.js          # Vue 配置
+```
+
+## 开发规范
+
+### Vue 组件
+- 使用 Vue 3 Composition API
+- 组件命名使用 PascalCase
+- 文件命名使用 PascalCase.vue
+
+### Phaser 游戏开发
+- 游戏场景放在 `src/scenes/` 目录下
+- 游戏对象放在 `src/gameObjects/` 目录下
+- 游戏配置放在 `src/config/` 目录下
+
+## 开发注意事项
+
+1. 确保 Phaser 游戏实例在 Vue 组件中正确管理生命周期
+2. 游戏状态与 Vue 状态管理保持一致
+3. 响应式设计，适配不同屏幕尺寸
+4. 性能优化，避免内存泄漏
+
+## 常用命令
+
+```bash
+# 安装依赖
+npm install
+
+# 开发模式
+npm run serve
+
+# 构建生产版本
+npm run build
+
+# 代码检查
+npm run lint
+``` 
+
+基于屏幕尺寸1900x900开发
+请不要在生成中出现运行项目的指令
+所有回答请不要生成特定的测试用例，除非我指定需要测试用例

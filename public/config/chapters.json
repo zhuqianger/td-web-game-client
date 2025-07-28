@@ -1,0 +1,95 @@
+{
+  "1": {
+    "id": 1,
+    "name": "第一章：初入战场",
+    "description": "学习基础战斗技巧",
+    "levels": [
+      {
+        "id": 1,
+        "name": "训练场",
+        "description": "基础移动和攻击",
+        "unlocked": true,
+        "mapConfig": 1,
+        "piecesConfig": 1
+      },
+      {
+        "id": 2,
+        "name": "森林遭遇",
+        "description": "遭遇战训练",
+        "unlocked": true,
+        "mapConfig": 2,
+        "piecesConfig": 2
+      },
+      {
+        "id": 3,
+        "name": "村庄保卫",
+        "description": "防守战训练",
+        "unlocked": false,
+        "mapConfig": 3,
+        "piecesConfig": 3
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "第二章：进阶战术",
+    "description": "掌握高级战斗策略",
+    "levels": [
+      {
+        "id": 1,
+        "name": "山地作战",
+        "description": "地形利用",
+        "unlocked": false,
+        "mapConfig": 4,
+        "piecesConfig": 4
+      },
+      {
+        "id": 2,
+        "name": "城堡攻防",
+        "description": "攻城战",
+        "unlocked": false,
+        "mapConfig": 5,
+        "piecesConfig": 5
+      },
+      {
+        "id": 3,
+        "name": "平原决战",
+        "description": "大规模战斗",
+        "unlocked": false,
+        "mapConfig": 6,
+        "piecesConfig": 6
+      }
+    ]
+  },
+  "3": {
+    "id": 3,
+    "name": "第三章：终极挑战",
+    "description": "面对最强敌人",
+    "levels": [
+      {
+        "id": 1,
+        "name": "深渊试炼",
+        "description": "极限挑战",
+        "unlocked": false,
+        "mapConfig": 7,
+        "piecesConfig": 7
+      },
+      {
+        "id": 2,
+        "name": "魔王宫殿",
+        "description": "最终决战",
+        "unlocked": false,
+        "mapConfig": 8,
+        "piecesConfig": 8
+      },
+      {
+        "id": 3,
+        "name": "传说之战",
+        "description": "史诗级战斗",
+        "unlocked": false,
+        "mapConfig": 9,
+        "piecesConfig": 9
+      }
+    ]
+  }
+} 

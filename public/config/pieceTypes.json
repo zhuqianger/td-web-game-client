@@ -1,0 +1,57 @@
+{
+  "1": {
+    "name": "战士",
+    "description": "近战单位，高防御力",
+    "hp": 100,
+    "attack": 25,
+    "defense": 15,
+    "moveRange": 2,
+    "range": 1,
+    "color": "0x4169E1",
+    "icon": "⚔️"
+  },
+  "2": {
+    "name": "弓箭手",
+    "description": "远程单位，高攻击力",
+    "hp": 80,
+    "attack": 35,
+    "defense": 8,
+    "moveRange": 3,
+    "range": 3,
+    "color": "0x32CD32",
+    "icon": "🏹"
+  },
+  "3": {
+    "name": "法师",
+    "description": "魔法单位，中程攻击",
+    "hp": 70,
+    "attack": 30,
+    "defense": 5,
+    "moveRange": 2,
+    "range": 2,
+    "color": "0x9932CC",
+    "icon": "🔮"
+  },
+  "4": {
+    "name": "坦克",
+    "description": "重装单位，高血量高防御",
+    "hp": 150,
+    "attack": 20,
+    "defense": 25,
+    "moveRange": 1,
+    "range": 1,
+    "color": "0x8B4513",
+    "icon": "🛡️"
+  },
+  "5": {
+    "name": "骑士",
+    "description": "机动单位，高移动力",
+    "hp": 90,
+    "attack": 28,
+    "defense": 12,
+    "moveRange": 4,
+    "range": 1,
+    "color": "0xFFD700",
+    "icon": "🐎"
+  }
+} 

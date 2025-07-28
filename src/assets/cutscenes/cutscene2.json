@@ -1,0 +1,39 @@
+{
+  "id": "cutscene2",
+  "title": "战斗准备",
+  "background": "castle",
+  "dialogues": [
+    {
+      "character": {
+        "name": "导师",
+        "image": "mentor",
+        "position": "left"
+      },
+      "content": "雷恩，你已经掌握了基础技能。现在是时候面对真正的挑战了。"
+    },
+    {
+      "character": {
+        "name": "雷恩",
+        "image": "rain",
+        "position": "right"
+      },
+      "content": "我准备好了，导师。请告诉我接下来要做什么。"
+    },
+    {
+      "character": {
+        "name": "导师",
+        "image": "mentor",
+        "position": "left"
+      },
+      "content": "在城堡的深处，有一个古老的试炼场。只有通过那里，你才能获得真正的力量。"
+    },
+    {
+      "character": {
+        "name": "艾莉娅",
+        "image": "alya",
+        "position": "right"
+      },
+      "content": "我会和你一起去的，雷恩。我们是最好的搭档！"
+    }
+  ]
+} 

@@ -1,0 +1,70 @@
+{
+  "1": {
+    "id": 1,
+    "name": "主菜单引导",
+    "description": "主菜单操作引导",
+    "steps": [
+      {
+        "id": 1,
+        "type": "highlight",
+        "target": "button",
+        "targetId": "chapterButton_1",
+        "message": "点击这里选择第一章",
+        "position": "bottom",
+        "arrow": "up"
+      },
+      {
+        "id": 2,
+        "type": "highlight",
+        "target": "button",
+        "targetId": "levelButton_1",
+        "message": "点击这里选择第一关",
+        "position": "bottom",
+        "arrow": "up"
+      },
+      {
+        "id": 3,
+        "type": "highlight",
+        "target": "button",
+        "targetId": "startButton",
+        "message": "点击开始游戏按钮进入游戏",
+        "position": "top",
+        "arrow": "down"
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "name": "界面介绍",
+    "description": "界面元素介绍",
+    "steps": [
+      {
+        "id": 1,
+        "type": "highlight",
+        "target": "text",
+        "targetId": "title",
+        "message": "这是游戏标题",
+        "position": "bottom",
+        "arrow": "up"
+      },
+      {
+        "id": 2,
+        "type": "highlight",
+        "target": "text",
+        "targetId": "userInfo",
+        "message": "这里显示玩家信息",
+        "position": "left",
+        "arrow": "right"
+      },
+      {
+        "id": 3,
+        "type": "highlight",
+        "target": "button",
+        "targetId": "backButton",
+        "message": "点击返回按钮回到登录界面",
+        "position": "top",
+        "arrow": "down"
+      }
+    ]
+  }
+} 

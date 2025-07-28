@@ -1,0 +1,37 @@
+{
+  "id": "cutscene1",
+  "dialogues": [
+    {
+      "character": {
+        "name": "艾莉娅",
+        "image": "alya",
+        "position": "left"
+      },
+      "content": "你好，我是艾莉娅。欢迎来到这个神秘的世界。"
+    },
+    {
+      "character": {
+        "name": "雷恩",
+        "image": "rain",
+        "position": "right"
+      },
+      "content": "谢谢你的欢迎，艾莉娅。我是雷恩，很高兴认识你。"
+    },
+    {
+      "character": {
+        "name": "艾莉娅",
+        "image": "alya",
+        "position": "left"
+      },
+      "content": "雷恩，你看起来很有潜力。愿意和我一起探索这个世界的秘密吗？"
+    },
+    {
+      "character": {
+        "name": "雷恩",
+        "image": "rain",
+        "position": "right"
+      },
+      "content": "当然愿意！我已经迫不及待想要开始这场冒险了。"
+    }
+  ]
+} 
